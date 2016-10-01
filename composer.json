@@ -14,7 +14,6 @@
         "symfony/dom-crawler": "~2.5",
         "symfony/css-selector": "~2.5",
         "fabpot/goutte": "~3.1",
-        "instaclick/php-webdriver": "~1.4"
     },
     "autoload": {
         "psr-4": {
